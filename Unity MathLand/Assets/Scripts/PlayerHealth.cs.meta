@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 25ef99e0604aa9d458fd3d78fa069f06
+timeCreated: 1443283326
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - health10: {fileID: 2800000, guid: 11ea0e22df7515d41bf4e31980c5dc58, type: 3}
+  - health20: {fileID: 2800000, guid: b0dbc339e839e7840bb04381794e3139, type: 3}
+  - health30: {fileID: 2800000, guid: 0d01f629d98c263408ea490ab8f256c8, type: 3}
+  - health40: {fileID: 2800000, guid: ca556d8d8d47fcb4890fed9f4602b51d, type: 3}
+  - health50: {fileID: 2800000, guid: 9cc788bc4f3b9c144a5c2393e7783534, type: 3}
+  - health60: {fileID: 2800000, guid: 67a99fc9424bb504199aa9d3fe8e4571, type: 3}
+  - health70: {fileID: 2800000, guid: 8aae6bdda7028a44a91ecbc524daa5b6, type: 3}
+  - health80: {fileID: 2800000, guid: acb7ac0e59075d940ba19822d7381483, type: 3}
+  - health90: {fileID: 2800000, guid: 7c9e1a1945a056d4db18636c0e1171fe, type: 3}
+  - health100: {fileID: 2800000, guid: e9051a4fb5627114296fdc7806560034, type: 3}
+  - deathClip: {fileID: 8300000, guid: aeccb1a76c81a8b48b4633ca4df41fd0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
