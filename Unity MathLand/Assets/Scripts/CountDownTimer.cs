@@ -1,4 +1,6 @@
-/** \Author Matt Smith modified by: Omar Ibrahim Abou Kanour: B00066509
+/** \Author Matt Smith
+    \Modified by: Omar Ibrahim Abou Kanour: B00066509
+    \Slightly Modified by Ciaran Boland: B00062883
   */
 using UnityEngine;
 using System.Collections;
@@ -17,7 +19,7 @@ public class CountDownTimer : MonoBehaviour
 	public Texture2D time9;
 	public Texture2D time10;
 	public AudioClip timeAlmostUp;
-	private int labelY = Screen.width / 2 - 200;
+	private int labelY = Screen.width / 2 - 400;
 	private int labelX = Screen.height - 50;
 	private int labelWidth = 400;
 	private int labelHeight = 50;
